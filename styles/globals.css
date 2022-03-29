@@ -1,3 +1,8 @@
+/*
+  Stylesheet holding all Tailwind utility classes and imports tailwind.
+  DO NOT MODIFY UNLESS YOU KNOW WHAT YOU ARE DOING!
+*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
